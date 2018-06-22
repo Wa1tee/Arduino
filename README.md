@@ -1,5 +1,5 @@
 # Arduino
-Repository to keep track of my Arduino, ESP8266 and ESP32 projects
+Repository to keep track of my simple Arduino, ESP8266 and ESP32 projects
 
 Projects:
 
